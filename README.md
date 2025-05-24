@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0eccd755-42b2-4586-99e6-3fefc29299f0)# Talksy - The Chat Application
+# Talksy - The Chat Application
 ### Beyond Words, Weyond Distance
 A real-time chat application built with a fullstack architecture using **Node.js**, **Express**, **MongoDB**, and **React**. It supports user authentication, real-time messaging, and media uploads with **Cloudinary**.
 
