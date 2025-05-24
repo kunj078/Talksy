@@ -1,4 +1,4 @@
-# Talksy - The Chat Application
+![image](https://github.com/user-attachments/assets/0eccd755-42b2-4586-99e6-3fefc29299f0)# Talksy - The Chat Application
 ### Beyond Words, Weyond Distance
 A real-time chat application built with a fullstack architecture using **Node.js**, **Express**, **MongoDB**, and **React**. It supports user authentication, real-time messaging, and media uploads with **Cloudinary**.
 
@@ -92,7 +92,7 @@ CLOUDINARY_API_SECRET=your_api_secret
 #### Run Backend
 
 ```bash
-npm start
+npm run dev
 ```
 
 ---
@@ -107,7 +107,7 @@ npm install
 #### Run Frontend
 
 ```bash
-npm start
+npm run dev
 ```
 
 ---
@@ -128,8 +128,22 @@ npm start
 
 ## 📸 Screenshots
 
-(Add screenshots here for UI previews)
+## Signup Page
+![image](https://github.com/user-attachments/assets/0c14b57a-0ab5-43bf-acdc-44f556c6caec)
 
+## Login Page
+![image](https://github.com/user-attachments/assets/4d3caecf-9cc9-4441-91f5-ae17c64dbd04)
+
+## Profile Page
+![image](https://github.com/user-attachments/assets/8b2a4d04-6bb2-4ab0-9e7c-124b2bc3a610)
+
+## Real Time Chat Conversation 
+![image](https://github.com/user-attachments/assets/ca72d9c9-cb59-4d42-83c8-5bc9227482a8)
+
+## Theme Setting
+![image](https://github.com/user-attachments/assets/5bab22f3-baf1-4f29-bc01-02373d86385c)
+
+##
 ---
 
 ## 🙌 Contributing
