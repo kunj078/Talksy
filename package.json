@@ -1,0 +1,22 @@
+{
+  "name": "fullstack-chat-app-master",
+  "version": "1.0.0",
+  "description": "A real-time chat application built with a fullstack architecture using **Node.js**, **Express**, **MongoDB**, and **React**. It supports user authentication, real-time messaging, and media uploads with **Cloudinary**.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunj078/Talksy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kunj078/Talksy/issues"
+  },
+  "homepage": "https://github.com/kunj078/Talksy#readme"
+}
