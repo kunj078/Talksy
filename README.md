@@ -1,4 +1,7 @@
 # Talksy - The Chat Application
+
+## https://talksy-the-chat-app.onrender.com/settings
+
 ### Beyond Words, Weyond Distance
 A real-time chat application built with a fullstack architecture using **Node.js**, **Express**, **MongoDB**, and **React**. It supports user authentication, real-time messaging, and media uploads with **Cloudinary**.
 
